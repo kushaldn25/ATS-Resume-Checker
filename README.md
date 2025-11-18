@@ -30,6 +30,7 @@ feedback on skill gaps.
 
 ## 📂 Project Structure
 
+```
 ATS-Resume-Checker/ 
     ├── app.py 
     ├── jd_parser.py 
@@ -37,6 +38,7 @@ ATS-Resume-Checker/
     ├──matcher.py 
     ├── requirements.txt 
     └── README.md
+```
 
 ## ⚙️ Installation & Setup
 
