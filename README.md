@@ -30,13 +30,18 @@ feedback on skill gaps.
 
 ## 📂 Project Structure
 
-ATS-Resume-Checker/ ├── app.py ├── jd_parser.py ├── resume_parser.py ├──
-matcher.py ├── requirements.txt └── README.md
+ATS-Resume-Checker/ 
+    ├── app.py 
+    ├── jd_parser.py 
+    ├── resume_parser.py 
+    ├──matcher.py 
+    ├── requirements.txt 
+    └── README.md
 
 ## ⚙️ Installation & Setup
 
 ``` bash
-git clone <your-repo-url>
+git clone <https://github.com/kushaldn25/ATS-Resume-Checker>
 cd ATS-Resume-Checker
 python -m venv venv
 source venv/bin/activate
